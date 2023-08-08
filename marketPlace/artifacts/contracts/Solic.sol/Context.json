@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Context",
+  "sourceName": "contracts/Solic.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122065adb9f77f1f33fb52df7b4d71e1999167f65233c74bfedd379eb75f5e35dc6b64736f6c63430008040033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122065adb9f77f1f33fb52df7b4d71e1999167f65233c74bfedd379eb75f5e35dc6b64736f6c63430008040033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

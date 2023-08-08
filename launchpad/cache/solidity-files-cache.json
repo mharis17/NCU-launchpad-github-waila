@@ -1,0 +1,351 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/apple/Desktop/Launchpad/contracts/ NCU_Launchpad.sol": {
+      "lastModificationDate": 1654068918717,
+      "contentHash": "52179d1b211737408aa3f8d25186a1e0",
+      "sourceName": "contracts/ NCU_Launchpad.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol",
+        "./PresaleLaunchpadToken.sol",
+        "./PublicsaleLaunchpadToken.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Clones",
+        "NCU_Launchpad"
+      ]
+    },
+    "/Users/apple/Desktop/Launchpad/contracts/PresaleLaunchpadToken.sol": {
+      "lastModificationDate": 1653632650306,
+      "contentHash": "0188138646fc4c987fe40d663f2c4da5",
+      "sourceName": "contracts/PresaleLaunchpadToken.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "AddressPre",
+        "AddressUpgradeablePre",
+        "ContextPre",
+        "ERC165Pre",
+        "ERC721AA",
+        "IERC165Pre",
+        "IERC721EnumerablePre",
+        "IERC721MetadataPre",
+        "IERC721PRESALE",
+        "IERC721ReceiverPre",
+        "InitializablePre",
+        "MerkleProoff",
+        "OwnablePre",
+        "PresaleLaunchpadToken",
+        "StringsPre"
+      ]
+    },
+    "/Users/apple/Desktop/Launchpad/contracts/PublicsaleLaunchpadToken.sol": {
+      "lastModificationDate": 1653632707520,
+      "contentHash": "27b279572d739daa2d2cd31c3223d0e4",
+      "sourceName": "contracts/PublicsaleLaunchpadToken.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Address",
+        "AddressUpgradeable",
+        "Context",
+        "ERC165",
+        "ERC721A",
+        "IERC165",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Initializable",
+        "MerkleProof",
+        "Ownable",
+        "PublicsaleLaunchpadToken",
+        "Strings"
+      ]
+    },
+    "/Users/apple/Desktop/Launchpad/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1653721340805,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/Users/apple/Desktop/untitled folder/ncu-launchpad-contracts/launchpad/contracts/ NCU_Launchpad.sol": {
+      "lastModificationDate": 1654084282297,
+      "contentHash": "52179d1b211737408aa3f8d25186a1e0",
+      "sourceName": "contracts/ NCU_Launchpad.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol",
+        "./PresaleLaunchpadToken.sol",
+        "./PublicsaleLaunchpadToken.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Clones",
+        "NCU_Launchpad"
+      ]
+    },
+    "/Users/apple/Desktop/untitled folder/ncu-launchpad-contracts/launchpad/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1654084358971,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/Users/apple/Desktop/untitled folder/ncu-launchpad-contracts/launchpad/contracts/PresaleLaunchpadToken.sol": {
+      "lastModificationDate": 1654084282299,
+      "contentHash": "0188138646fc4c987fe40d663f2c4da5",
+      "sourceName": "contracts/PresaleLaunchpadToken.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "AddressPre",
+        "AddressUpgradeablePre",
+        "ContextPre",
+        "ERC165Pre",
+        "ERC721AA",
+        "IERC165Pre",
+        "IERC721EnumerablePre",
+        "IERC721MetadataPre",
+        "IERC721PRESALE",
+        "IERC721ReceiverPre",
+        "InitializablePre",
+        "MerkleProoff",
+        "OwnablePre",
+        "PresaleLaunchpadToken",
+        "StringsPre"
+      ]
+    },
+    "/Users/apple/Desktop/untitled folder/ncu-launchpad-contracts/launchpad/contracts/PublicsaleLaunchpadToken.sol": {
+      "lastModificationDate": 1654084282295,
+      "contentHash": "27b279572d739daa2d2cd31c3223d0e4",
+      "sourceName": "contracts/PublicsaleLaunchpadToken.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Address",
+        "AddressUpgradeable",
+        "Context",
+        "ERC165",
+        "ERC721A",
+        "IERC165",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Initializable",
+        "MerkleProof",
+        "Ownable",
+        "PublicsaleLaunchpadToken",
+        "Strings"
+      ]
+    }
+  }
+}

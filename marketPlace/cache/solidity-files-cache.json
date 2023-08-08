@@ -1,0 +1,290 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/apple/Desktop/Marketplace/contracts/AURA.sol": {
+      "lastModificationDate": 1654693254588,
+      "contentHash": "adece1c6169083b561428036b882ebe7",
+      "sourceName": "contracts/AURA.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AURA",
+        "Address",
+        "Context",
+        "IERC20",
+        "Ownable",
+        "SafeMath"
+      ]
+    },
+    "/Users/apple/Desktop/Marketplace/contracts/NFTMarketplace.sol": {
+      "lastModificationDate": 1657088556189,
+      "contentHash": "483409bd7bf7df5bf71de0c093280fdc",
+      "sourceName": "contracts/NFTMarketplace.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "ERC721Holder",
+        "IERC165",
+        "IERC20",
+        "IERC721",
+        "IERC721Receiver",
+        "NFTMarketplace",
+        "Ownable"
+      ]
+    },
+    "/Users/apple/Desktop/Marketplace/contracts/test.sol": {
+      "lastModificationDate": 1654788978528,
+      "contentHash": "cf76f901e0bafe49bec7e6c386776574",
+      "sourceName": "contracts/test.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "ERC165",
+        "ERC721A",
+        "IERC165",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Ownable",
+        "Strings",
+        "test"
+      ]
+    },
+    "/Users/apple/Desktop/Marketplace/contracts/test1.sol": {
+      "lastModificationDate": 1654788975703,
+      "contentHash": "882c2054b9ffdd09e353a6f84b6b607b",
+      "sourceName": "contracts/test1.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "ERC165",
+        "ERC721A",
+        "IERC165",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Ownable",
+        "Strings",
+        "test1"
+      ]
+    },
+    "/Users/apple/Desktop/Marketplace/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1654585937059,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/Users/apple/Desktop/Marketplace/contracts/weth.sol": {
+      "lastModificationDate": 1655964466587,
+      "contentHash": "4c0cb191c9cccd7aad7168d6e1b6ae16",
+      "sourceName": "contracts/weth.sol",
+      "solcConfig": {
+        "version": "0.4.26",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.18"
+      ],
+      "artifacts": [
+        "WETH9"
+      ]
+    },
+    "/Users/apple/Desktop/Marketplace/contracts/Solic.sol": {
+      "lastModificationDate": 1656657748159,
+      "contentHash": "3e6e2f6fc7932d46bac30fa17a353b7f",
+      "sourceName": "contracts/Solic.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "IERC20",
+        "Ownable",
+        "SafeMath",
+        "Solic"
+      ]
+    }
+  }
+}
